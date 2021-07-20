@@ -1,7 +1,7 @@
 # CSE_111-Database_Systems
 Car_dealership
 
-Description
+Description:
 A sqlite file storing the data and using pythonscript to fillinTable.py for the data.
 Next, is have a pythonscript control and to see/manage what data is in the database using the terminal. 
 
